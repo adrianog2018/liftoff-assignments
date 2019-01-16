@@ -24,5 +24,7 @@ Today Jan 2019, I have been working as a BDC agent for Toyota dealers for 2 year
 
 -MySQL
 
+-AngularJS
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+I have to learn AngularJS and how use it with Asp.Net Razor templates.
