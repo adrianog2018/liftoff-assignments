@@ -1,5 +1,5 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide feedback and direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline, or if you have to change some things later.
+ToyoBrowser is an application that makes easy to review and compare every model, trim and features of each Toyota vehicle.
 
 ## Assignment Description
 [Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
@@ -23,6 +23,8 @@ Today Jan 2019, I have been working as a BDC agent for Toyota dealers for 2 year
 -Razor Templates
 
 -MySQL
+
+-Entity Framework
 
 -AngularJS
 
