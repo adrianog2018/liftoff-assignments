@@ -7,13 +7,12 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
-
+ <ul>
+  <li>https://xd.adobe.com/view/009a589c-13c9-4e1f-4c00-bc5ab4916455-76ab/</li>
+  </ul>
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
-
+<h1>https://trello.com/invite/b/mTpB2Nct/adca52ef24a9e0cc51c4a57a19414ecc/liftoff-launchcode-toyobrowser</h1>
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+<h1>https://github.com/adrianog2018/ToyoBrowser.git</h1>
